@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
-I had to update the SKD version to 31 and I had to apply for Elevated access in the Twitter Developer portal in order for the app to work.
+I had to update the SDK version to 31 and I had to apply for Elevated access in the Twitter Developer portal in order for the app to work.
 
 ## Open-source libraries used
 
